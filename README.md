@@ -12,6 +12,9 @@ My first api with Deno
   
  `
  http://localhost:3000/api/movies
+ `
+ <br>
+ `
  http://localhost:3000/api/movies/1
  `
   - use the comands for GET, POST, PATH and DELETE
